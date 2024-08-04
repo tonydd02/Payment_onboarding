@@ -34,8 +34,10 @@ Sample Usages are in /src/test.ts
 MerchantOnboarding.onboard(merchantOnboardingInput);
 ```
 Creates idenity and merchant account along with bank account info in Finix Dashboard:
-![image](https://github.com/user-attachments/assets/f213aa1f-17f3-42db-9142-8c5926faebd9)
-![image](https://github.com/user-attachments/assets/acd39017-f96f-4505-9ca8-01141ff2a8b8)
+![abdd963b694e486af8d8dffb37eb5a8](https://github.com/user-attachments/assets/208d3357-6f57-42fd-be15-fc980650c05c)
+
+![66adcf8295e8e1effdf6c0562c3410e](https://github.com/user-attachments/assets/34836ec6-f301-4515-9375-6e64f8a58ba8)
+
 
 #### Onboard the buyer: this will create identity and add credit card
 ```typescript
