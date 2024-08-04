@@ -44,15 +44,18 @@ Creates idenity and merchant account along with bank account info in Finix Dashb
 Payment.addBuyerAndCard(buyerOnboardingInput);
 ```
 Creats buyer identity along with payment card info:
-![image](https://github.com/user-attachments/assets/ff526de0-90bc-4ee4-83e8-89a37a722cad)
+![91dec04824866eacebfe113e97b7c9d](https://github.com/user-attachments/assets/4b9857a1-d4d4-4e89-a574-f13950c5e3c8)
+
 
 #### Charge a buyer's card on behalf of a provisioned merchant
 ```typescript
 Payment.makeTransfer(transferContent);
 ```
 Generates a transaction from buyer to merchant with all details:
-![image](https://github.com/user-attachments/assets/acc85bd6-3de2-4f7a-9c61-9d220dd8ef1f)
-![image](https://github.com/user-attachments/assets/38830db0-49b2-4d1a-9b91-85b5f5e5d59f)
+![c978345e0f669f88e07edcf06ee857c](https://github.com/user-attachments/assets/db85e0ca-c570-4abf-8e5d-366d62f38a70)
+
+![f3518a4a0567ed2a2e01da461d60ef7](https://github.com/user-attachments/assets/cf9518ee-a3c7-4694-b2d3-1a9a24d983a5)
+
 
 
 ## Additional References
